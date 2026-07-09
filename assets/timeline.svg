@@ -1,0 +1,50 @@
+<svg viewBox="0 0 1600 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05070c"/>
+      <stop offset="100%" stop-color="#0A0E17"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="50%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowV" cx="80%" cy="70%" r="60%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ruleFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0E17" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </linearGradient>
+    
+  </defs>
+  <rect width="1600" height="320" fill="url(#bgv)"/>
+  <path d="M110,170 C326,230 356,230 386,170 C602,110 632,110 662,170 C878,230 908,230 938,170 C1154,110 1184,110 1214,170 C1430,230 1460,230 1490,170" fill="none" stroke="#00F0FF" stroke-opacity="0.35" stroke-width="1.6"/>
+  <circle cx="110" cy="170" r="6" fill="#0A0E17" stroke="#00F0FF" stroke-width="2.4"/>
+<circle cx="386" cy="170" r="6" fill="#0A0E17" stroke="#8B5CF6" stroke-width="2.4"/>
+<circle cx="662" cy="170" r="6" fill="#0A0E17" stroke="#2563EB" stroke-width="2.4"/>
+<circle cx="938" cy="170" r="6" fill="#0A0E17" stroke="#00F0FF" stroke-width="2.4"/>
+<circle cx="1214" cy="170" r="9" fill="#0A0E17" stroke="#EC4899" stroke-width="2.4"/>
+<circle cx="1214" cy="170" r="16" fill="none" stroke="#EC4899" stroke-width="1" opacity="0.5"/>
+<circle cx="1490" cy="170" r="6" fill="#0A0E17" stroke="#8B5CF6" stroke-width="2.4"/>
+
+  <text x="110" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#E6F1FF">Foundations</text>
+<text x="110" y="100" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="1" fill="#5b6a85">Programming &#183; DSA &#183; Systems</text>
+<text x="386" y="235" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#E6F1FF">AI / ML Core</text>
+<text x="386" y="255" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="1" fill="#5b6a85">Python &#183; Vision &#183; Deep Learning</text>
+<text x="662" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#E6F1FF">Embedded</text>
+<text x="662" y="100" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="1" fill="#5b6a85">Raspberry Pi &#183; Arduino</text>
+<text x="938" y="235" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#E6F1FF">Full Stack</text>
+<text x="938" y="255" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="1" fill="#5b6a85">Next.js &#183; FastAPI &#183; Node</text>
+<text x="1214" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#E6F1FF">Robotics</text>
+<text x="1214" y="100" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="1" fill="#5b6a85">Zeno &#8212; autonomous navigation</text>
+<text x="1214" y="200" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="3" fill="#EC4899">NOW</text>
+<text x="1490" y="235" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#E6F1FF">Founding</text>
+<text x="1490" y="255" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="1" fill="#5b6a85">AI products, real problems</text>
+
+  
+  <g transform="translate(64,40) scale(0.8)" opacity="0.6">
+    <path d="M0,0 L28,0 L0,28 L28,28" fill="none" stroke="#00F0FF" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>
