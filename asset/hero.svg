@@ -1,0 +1,137 @@
+<svg viewBox="0 0 1600 680" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05070c"/>
+      <stop offset="100%" stop-color="#0A0E17"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="50%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowV" cx="80%" cy="70%" r="60%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ruleFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0E17" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </linearGradient>
+    
+  </defs>
+  <rect width="1600" height="680" fill="url(#bgv)"/>
+  <rect width="1600" height="680" fill="url(#glowV)"/>
+
+  <!-- faint grid, right field only -->
+  <g stroke="#1c2434" stroke-width="1" opacity="0.55">
+    <line x1="760" y1="0" x2="760" y2="680"/>
+    <line x1="0" y1="340" x2="1600" y2="340"/>
+  </g>
+
+  <!-- generative node field -->
+  <g><line x1="1019.1" y1="144.5" x2="859.0" y2="185.0" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1019.1" y1="144.5" x2="875.4" y2="126.0" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1019.1" y1="144.5" x2="1198.2" y2="95.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1019.1" y1="144.5" x2="1122.5" y2="227.9" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1280.7" y1="100.6" x2="1188.7" y2="264.8" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1280.7" y1="100.6" x2="1271.1" y2="268.5" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1280.7" y1="100.6" x2="1198.2" y2="95.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1280.7" y1="100.6" x2="1343.6" y2="221.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1188.7" y1="264.8" x2="1221.7" y2="282.1" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1188.7" y1="264.8" x2="1271.1" y2="268.5" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1188.7" y1="264.8" x2="1198.2" y2="95.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1188.7" y1="264.8" x2="1304.3" y2="299.5" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1188.7" y1="264.8" x2="1122.5" y2="227.9" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1188.7" y1="264.8" x2="1343.6" y2="221.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="806.4" y1="344.2" x2="790.0" y2="302.8" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="806.4" y1="344.2" x2="859.0" y2="185.0" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="806.4" y1="344.2" x2="904.6" y2="385.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="806.4" y1="344.2" x2="807.7" y2="175.3" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="806.4" y1="344.2" x2="955.3" y2="381.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="790.0" y1="302.8" x2="859.0" y2="185.0" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="790.0" y1="302.8" x2="904.6" y2="385.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="790.0" y1="302.8" x2="807.7" y2="175.3" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="790.0" y1="302.8" x2="955.3" y2="381.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="815.9" y1="110.8" x2="859.0" y2="185.0" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="815.9" y1="110.8" x2="875.4" y2="126.0" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="815.9" y1="110.8" x2="807.7" y2="175.3" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1099.6" y1="523.0" x2="1261.9" y2="590.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1099.6" y1="523.0" x2="1006.8" y2="517.0" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1099.6" y1="523.0" x2="1011.3" y2="387.9" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1099.6" y1="523.0" x2="1180.2" y2="550.1" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="859.0" y1="185.0" x2="875.4" y2="126.0" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="859.0" y1="185.0" x2="807.7" y2="175.3" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1261.9" y1="590.7" x2="1180.2" y2="550.1" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1221.7" y1="282.1" x2="1271.1" y2="268.5" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1221.7" y1="282.1" x2="1198.2" y2="95.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1221.7" y1="282.1" x2="1304.3" y2="299.5" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1221.7" y1="282.1" x2="1122.5" y2="227.9" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1221.7" y1="282.1" x2="1343.6" y2="221.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1541.0" y1="86.1" x2="1446.8" y2="222.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1541.0" y1="86.1" x2="1544.1" y2="126.1" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1446.8" y1="222.2" x2="1271.1" y2="268.5" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1446.8" y1="222.2" x2="1304.3" y2="299.5" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1446.8" y1="222.2" x2="1343.6" y2="221.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1446.8" y1="222.2" x2="1544.1" y2="126.1" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="875.4" y1="126.0" x2="807.7" y2="175.3" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1006.8" y1="517.0" x2="904.6" y2="385.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1006.8" y1="517.0" x2="1011.3" y2="387.9" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1006.8" y1="517.0" x2="955.3" y2="381.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1006.8" y1="517.0" x2="1180.2" y2="550.1" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="904.6" y1="385.7" x2="1011.3" y2="387.9" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="904.6" y1="385.7" x2="955.3" y2="381.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1271.1" y1="268.5" x2="1198.2" y2="95.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1271.1" y1="268.5" x2="1304.3" y2="299.5" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1271.1" y1="268.5" x2="1122.5" y2="227.9" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1271.1" y1="268.5" x2="1343.6" y2="221.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1198.2" y1="95.2" x2="1122.5" y2="227.9" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1304.3" y1="299.5" x2="1395.5" y2="451.4" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1304.3" y1="299.5" x2="1343.6" y2="221.2" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<line x1="1011.3" y1="387.9" x2="955.3" y2="381.7" stroke="#00F0FF" stroke-width="0.6" opacity="0.16"/>
+<circle cx="1019.1" cy="144.5" r="2.4" fill="#8B5CF6" opacity="0.43"/>
+<circle cx="1280.7" cy="100.6" r="2.5" fill="#00F0FF" opacity="0.83"/>
+<circle cx="1188.7" cy="264.8" r="1.7" fill="#2563EB" opacity="0.64"/>
+<circle cx="806.4" cy="344.2" r="3.2" fill="#8B5CF6" opacity="0.52"/>
+<circle cx="790.0" cy="302.8" r="2.2" fill="#8B5CF6" opacity="0.64"/>
+<circle cx="815.9" cy="110.8" r="2.4" fill="#00F0FF" opacity="0.82"/>
+<circle cx="1099.6" cy="523.0" r="2.5" fill="#2563EB" opacity="0.38"/>
+<circle cx="859.0" cy="185.0" r="2.9" fill="#8B5CF6" opacity="0.67"/>
+<circle cx="1261.9" cy="590.7" r="3.4" fill="#8B5CF6" opacity="0.49"/>
+<circle cx="1221.7" cy="282.1" r="2.3" fill="#2563EB" opacity="0.52"/>
+<circle cx="1541.0" cy="86.1" r="3.3" fill="#8B5CF6" opacity="0.43"/>
+<circle cx="1446.8" cy="222.2" r="1.8" fill="#00F0FF" opacity="0.46"/>
+<circle cx="875.4" cy="126.0" r="2.1" fill="#2563EB" opacity="0.47"/>
+<circle cx="1006.8" cy="517.0" r="2.3" fill="#8B5CF6" opacity="0.39"/>
+<circle cx="904.6" cy="385.7" r="2.4" fill="#2563EB" opacity="0.49"/>
+<circle cx="1271.1" cy="268.5" r="1.8" fill="#8B5CF6" opacity="0.78"/>
+<circle cx="1198.2" cy="95.2" r="2.1" fill="#8B5CF6" opacity="0.84"/>
+<circle cx="807.7" cy="175.3" r="2.8" fill="#8B5CF6" opacity="0.83"/>
+<circle cx="1304.3" cy="299.5" r="1.9" fill="#00F0FF" opacity="0.43"/>
+<circle cx="1011.3" cy="387.9" r="2.8" fill="#00F0FF" opacity="0.59"/>
+<circle cx="1122.5" cy="227.9" r="2.7" fill="#8B5CF6" opacity="0.49"/>
+<circle cx="1395.5" cy="451.4" r="1.9" fill="#2563EB" opacity="0.53"/>
+<circle cx="955.3" cy="381.7" r="2.6" fill="#00F0FF" opacity="0.70"/>
+<circle cx="1180.2" cy="550.1" r="2.5" fill="#2563EB" opacity="0.68"/>
+<circle cx="1343.6" cy="221.2" r="2.9" fill="#8B5CF6" opacity="0.80"/>
+<circle cx="1544.1" cy="126.1" r="3.0" fill="#2563EB" opacity="0.75"/>
+</g>
+
+  
+  <g transform="translate(64,56) scale(1.15)" opacity="0.85">
+    <path d="M0,0 L28,0 L0,28 L28,28" fill="none" stroke="#00F0FF" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <text x="118" y="80" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" letter-spacing="5" fill="#5b6a85">GITHUB / ZEENAT</text>
+
+  <!-- ghost numeral watermark -->
+  <text x="30" y="600" font-family="Georgia, 'Times New Roman', serif" font-size="420" fill="#E6F1FF" opacity="0.035">01</text>
+
+  <!-- name block, left third -->
+  <text x="64" y="330" font-family="Helvetica Neue, Arial, sans-serif" font-size="16" letter-spacing="7" fill="#00F0FF">SYSTEM ONLINE</text>
+  <text x="60" y="440" font-family="Georgia, 'Times New Roman', serif" font-size="128" fill="#E6F1FF">Zeenat</text>
+  <rect x="65" y="466" width="420" height="1.4" fill="url(#ruleFade)"/>
+  <text x="64" y="510" font-family="Helvetica Neue, Arial, sans-serif" font-size="21" letter-spacing="3" fill="#E6F1FF" opacity="0.9">AI Engineer &#8212; in progress</text>
+  <text x="64" y="546" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="18" fill="#8FA3C0">Founder-track. Building systems, not resumes.</text>
+
+  <text x="64" y="620" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#5b6a85">MUMBAI, INDIA</text>
+  <text x="64" y="644" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#5b6a85">BCA &#8212; MUMBAI UNIVERSITY</text>
+</svg>

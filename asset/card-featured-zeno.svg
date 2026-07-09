@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1600 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05070c"/>
+      <stop offset="100%" stop-color="#0A0E17"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="50%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowV" cx="80%" cy="70%" r="60%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ruleFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0E17" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </linearGradient>
+    
+  </defs>
+  <rect x="1" y="1" width="1598" height="458" rx="18" fill="#0c111d" stroke="#EC4899" stroke-opacity="0.35" stroke-width="1.4"/>
+  <rect x="1" y="1" width="1598" height="458" rx="18" fill="url(#glowV)"/>
+  
+  <g transform="translate(1500,40) scale(1.0)" opacity="0.75">
+    <path d="M0,0 L28,0 L0,28 L28,28" fill="none" stroke="#EC4899" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <text x="70" y="90" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" letter-spacing="6" fill="#EC4899">FLAGSHIP &#8212; DEPLOYMENT 01</text>
+  <text x="66" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="96" fill="#E6F1FF">Zeno</text>
+  <text x="70" y="250" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" fill="#AFC1DD">A humanoid robot learning to perceive, balance, and navigate</text>
+  <text x="70" y="280" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" fill="#AFC1DD">on its own — where mechanical design meets embedded AI.</text>
+  <line x1="70" y1="340" x2="1530" y2="340" stroke="#EC4899" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="70" y="380" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#EC4899">ROBOTICS &#183; ARDUINO &#183; RASPBERRY PI &#183; SENSOR FUSION &#183; AI PERCEPTION</text>
+  <text x="70" y="420" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#5b6a85">STATUS &#8212; ACTIVE DEVELOPMENT</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1600 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05070c"/>
+      <stop offset="100%" stop-color="#0A0E17"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="50%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowV" cx="80%" cy="70%" r="60%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ruleFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0E17" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0A0E17" stop-opacity="0"/>
+    </linearGradient>
+    
+  </defs>
+  <rect width="1600" height="480" fill="url(#bgv)"/>
+  <rect width="1600" height="480" fill="url(#glowV)"/>
+  
+  <g transform="translate(64,56) scale(1.0)" opacity="0.6">
+    <path d="M0,0 L28,0 L0,28 L28,28" fill="none" stroke="#8B5CF6" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <text x="800" y="150" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" letter-spacing="7" fill="#5b6a85">MANIFESTO</text>
+  <text x="800" y="235" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#E6F1FF">I don't want to write code that runs.</text>
+  <text x="800" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#E6F1FF">I want to build systems that decide,</text>
+  <text x="800" y="365" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#E6F1FF">perceive, and move on their own.</text>
+  <text x="800" y="425" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="19" fill="#8FA3C0">That's the difference between a developer and an engineer of intelligence.</text>
+</svg>
