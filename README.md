@@ -1,321 +1,194 @@
 <div align="center">
-
-<!-- ============ HERO / IMAGE 1 SLOT ============ -->
-<!--
-  Replace this line with your generated Hero Banner (Image 1 prompt).
-  Recommended path once generated: assets/hero-banner.png  (21:9, e.g. 1600x686)
-  <img src="assets/hero-banner.png" width="100%" />
--->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,50:2563EB,100:8B5CF6&height=260&section=header&text=ZEENAT&fontSize=70&fontColor=00F0FF&fontAlignY=40&desc=AI%20/%20ML%20/%20ROBOTICS%20ENGINEER&descAlignY=58&descColor=E6F1FF&animation=fadeIn" width="100%"/>
+<img src="assets/hero.svg" width="100%" alt="Zeenat — AI Engineer in Progress"/>
+</div>
 
 <br/>
 
-<!-- ============ SYSTEM_BOOT.exe — animated typing tagline ============ -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=SYSTEM_BOOT.exe+%E2%86%92+Initializing...;Loading+Neural+Interfaces...;Welcome%2C+I'm+Zeenat.;Building+Machines+That+Think." />
-</a>
+<div align="center">
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=zeenat&label=SYSTEM+VISITS&color=8B5CF6&style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=flat-square&labelColor=0A0E17)
-![Location](https://img.shields.io/badge/NODE-MUMBAI%2C_IN-EC4899?style=flat-square&labelColor=0A0E17)
+<a href="#mission">Mission</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#arsenal">Arsenal</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#builds">Builds</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#research">Research</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#analytics">Analytics</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#roadmap">Roadmap</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#contact">Contact</a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
+<a id="mission"></a>
+<img src="assets/divider.svg" width="100%"/>
 
-<!-- ============ AI_MISSION.log ============ -->
-
-## <img src="https://img.shields.io/badge/-01-0A0E17?style=flat-square&labelColor=00F0FF" height="22"/> `AI_MISSION.log`
+<br/>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-```yaml
-identity:
-  name: Zeenat
-  role: BCA Student · AI & Robotics Builder
-  base: Mumbai, India
-  directive: >
-    Not here to be "just another developer."
-    Here to build the future — one model,
-    one robot, one system at a time.
+### Mission
 
-focus_domains:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Robotics & Embedded Systems
-  - Full Stack Development
-  - Open Source Engineering
+I'm not learning software to become a developer. I'm learning it to become an **AI engineer, entrepreneur, and founder** — someone who builds systems that solve problems most people haven't noticed yet.
 
-core_belief: "Build things that solve real problems."
-```
+Currently a BCA student at Mumbai University, but the work is already ahead of the syllabus: humanoid robotics, computer vision, embedded intelligence, and full-stack products built to ship, not to demo.
+
+*Ambition without noise. Curiosity without limits.*
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-<!-- IMAGE 6 SLOT — Technology Arsenal background can double as a side panel visual here -->
-<!-- <img src="assets/mission-panel.png" width="100%"/> -->
+**Currently**
 
-> *"Every great AI system starts as*
-> *someone refusing to accept*
-> *the limits of what exists."*
-
-**Currently compiling:** knowledge → prototypes → products
+```
+role      → AI Engineer, in progress
+base      → Mumbai, India
+education → BCA, Mumbai University
+mode      → building > learning
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
+<br/>
 
-<!-- ============ ACTIVE_DEPLOYMENTS ============ -->
+<a id="arsenal"></a>
+<img src="assets/divider.svg" width="100%"/>
 
-## <img src="https://img.shields.io/badge/-02-0A0E17?style=flat-square&labelColor=8B5CF6" height="22"/> `ACTIVE_DEPLOYMENTS`
+<br/>
+
+### Arsenal
 
 <table>
 <tr>
-<td width="50%">
-
-### ⚡ Velora
-**AI Fashion Platform**
-
-AI-driven fashion intelligence — blending computer vision and recommendation systems to redefine how people discover and style clothing.
-
-`Python` `AI/ML` `Computer Vision` `Full Stack`
-
-</td>
-<td width="50%">
-
-### 🚦 AI Smart Traffic Management
-**Urban Intelligence System**
-
-Computer-vision-based traffic system designed to reduce congestion and improve city flow using real-time detection and adaptive control.
-
-`Computer Vision` `Python` `Embedded Systems`
-
-</td>
+<td valign="top" width="20%"><b>Languages</b></td>
+<td valign="top">Python · Java · JavaScript</td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🤖 Zeno — Humanoid Robot
-**Robotics + AI Integration**
-
-A humanoid robotics project merging mechanical design, embedded control, and AI perception into a single autonomous system.
-
-`Robotics` `Arduino` `Raspberry Pi` `AI`
-
-</td>
-<td width="50%">
-
-### 🔬 Computer Vision Lab
-**Applied CV Experiments**
-
-Ongoing exploration of object detection, tracking, and perception pipelines applied to real-world constraints.
-
-`OpenCV` `Python` `Deep Learning`
-
-</td>
+<td valign="top"><b>AI / ML</b></td>
+<td valign="top">TensorFlow · PyTorch · OpenCV · LLMs · Generative AI</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend</b></td>
+<td valign="top">FastAPI · Express · Node.js · Redis · Docker</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend</b></td>
+<td valign="top">Next.js · UI/UX Systems</td>
+</tr>
+<tr>
+<td valign="top"><b>Hardware</b></td>
+<td valign="top">Raspberry Pi · Arduino · Embedded Systems</td>
+</tr>
+<tr>
+<td valign="top"><b>Infra</b></td>
+<td valign="top">Linux · Git · GitHub · Cloud Computing · System Design</td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
-
-<!-- ============ TECH_ARSENAL ============ -->
-
-## <img src="https://img.shields.io/badge/-03-0A0E17?style=flat-square&labelColor=00F0FF" height="22"/> `TECH_ARSENAL`
-
-<div align="center">
-
-**// Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-0A0E17?style=for-the-badge&logo=python&logoColor=00F0FF)
-![C++](https://img.shields.io/badge/C++-0A0E17?style=for-the-badge&logo=cplusplus&logoColor=00F0FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0E17?style=for-the-badge&logo=javascript&logoColor=00F0FF)
-![Linux](https://img.shields.io/badge/Linux-0A0E17?style=for-the-badge&logo=linux&logoColor=00F0FF)
-
-**// AI / ML / Vision**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0E17?style=for-the-badge&logo=tensorflow&logoColor=8B5CF6)
-![PyTorch](https://img.shields.io/badge/PyTorch-0A0E17?style=for-the-badge&logo=pytorch&logoColor=8B5CF6)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A0E17?style=for-the-badge&logo=opencv&logoColor=8B5CF6)
-![NumPy](https://img.shields.io/badge/NumPy-0A0E17?style=for-the-badge&logo=numpy&logoColor=8B5CF6)
-
-**// Full Stack**
-
-![React](https://img.shields.io/badge/React-0A0E17?style=for-the-badge&logo=react&logoColor=EC4899)
-![Node.js](https://img.shields.io/badge/Node.js-0A0E17?style=for-the-badge&logo=nodedotjs&logoColor=EC4899)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0E17?style=for-the-badge&logo=mongodb&logoColor=EC4899)
-![Flask](https://img.shields.io/badge/Flask-0A0E17?style=for-the-badge&logo=flask&logoColor=EC4899)
-
-**// Hardware & Embedded**
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0A0E17?style=for-the-badge&logo=raspberrypi&logoColor=2563EB)
-![Arduino](https://img.shields.io/badge/Arduino-0A0E17?style=for-the-badge&logo=arduino&logoColor=2563EB)
-
-**// Tools**
-
-![Git](https://img.shields.io/badge/Git-0A0E17?style=for-the-badge&logo=git&logoColor=00F0FF)
-![GitHub](https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=00F0FF)
-![VS Code](https://img.shields.io/badge/VS_Code-0A0E17?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF)
-
-<!-- IMAGE 6 SLOT — Technology Arsenal Background can sit behind this whole section if hosted as a repo banner image -->
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
-
-<!-- ============ NEURAL_RESEARCH_LOG ============ -->
-
-## <img src="https://img.shields.io/badge/-04-0A0E17?style=flat-square&labelColor=8B5CF6" height="22"/> `NEURAL_RESEARCH_LOG`
-
-<details open>
-<summary><b>▸ Expand research threads</b></summary>
 <br/>
 
-| Thread | Focus | Status |
-|---|---|---|
-| `Computer Vision` | Object detection & tracking pipelines | `● active` |
-| `Robotics Perception` | Sensor fusion for humanoid navigation | `● active` |
-| `Traffic Intelligence` | Real-time adaptive control models | `● active` |
-| `Applied ML` | Recommendation systems for fashion-tech | `● active` |
-| `Embedded AI` | Running lightweight models on Raspberry Pi | `◐ ongoing` |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
-
-<!-- ============ OPEN_SOURCE_PROTOCOL ============ -->
-
-## <img src="https://img.shields.io/badge/-05-0A0E17?style=flat-square&labelColor=EC4899" height="22"/> `OPEN_SOURCE_PROTOCOL`
-
-<div align="center">
-
-Contributing to and maintaining tools across AI, robotics, and dev-tooling — because the best systems are built in the open.
-
-![GitHub Contributions](https://img.shields.io/badge/CONTRIBUTIONS-OPEN_SOURCE-00F0FF?style=for-the-badge&labelColor=0A0E17)
-![PRs Welcome](https://img.shields.io/badge/PRs-WELCOME-8B5CF6?style=for-the-badge&labelColor=0A0E17)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
-
-<!-- ============ GITHUB_INTELLIGENCE ============ -->
-
-## <img src="https://img.shields.io/badge/-06-0A0E17?style=flat-square&labelColor=00F0FF" height="22"/> `GITHUB_INTELLIGENCE`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zeenat&show_icons=true&theme=chartreuse-dark&bg_color=0A0E17&title_color=00F0FF&icon_color=8B5CF6&text_color=E6F1FF&border_color=8B5CF6&border_radius=12&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeenat&theme=dark&background=0A0E17&stroke=8B5CF6&ring=00F0FF&fire=EC4899&currStreakLabel=00F0FF&border_radius=12" width="48%"/>
+<a id="builds"></a>
+<img src="assets/divider.svg" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeenat&layout=compact&theme=chartreuse-dark&bg_color=0A0E17&title_color=00F0FF&text_color=E6F1FF&border_color=8B5CF6&border_radius=12" width="48%"/>
+### Active Deployments
 
-<br/><br/>
+<table>
+<tr>
+<td width="50%"><img src="assets/card-velora.svg" width="100%"/></td>
+<td width="50%"><img src="assets/card-traffic.svg" width="100%"/></td>
+</tr>
+<tr><td colspan="2" height="16"></td></tr>
+<tr>
+<td width="50%"><img src="assets/card-zeno.svg" width="100%"/></td>
+<td width="50%"><img src="assets/card-fashion.svg" width="100%"/></td>
+</tr>
+<tr><td colspan="2" height="16"></td></tr>
+<tr>
+<td width="50%"><img src="assets/card-pi.svg" width="100%"/></td>
+<td width="50%"><img src="assets/card-vision.svg" width="100%"/></td>
+</tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeenat&theme=react-dark&bg_color=0A0E17&color=00F0FF&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="97%"/>
+<br/>
 
-</div>
+<a id="research"></a>
+<img src="assets/divider.svg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
+<br/>
 
-<!-- ============ FEATURED_BUILDS ============ -->
+### Research Threads
 
-## <img src="https://img.shields.io/badge/-07-0A0E17?style=flat-square&labelColor=8B5CF6" height="22"/> `FEATURED_BUILDS`
+| Thread | Focus |
+|---|---|
+| Computer Vision | Detection & tracking pipelines for real-world constraints |
+| Robotics Perception | Sensor fusion for humanoid navigation (Zeno) |
+| Traffic Intelligence | Real-time adaptive control models |
+| Generative & Applied ML | Recommendation and generation systems for fashion-tech |
+| Embedded AI | Running lightweight models at the edge, on Raspberry Pi |
+
+**Open source** — contributing to and maintaining tools across AI, robotics, and dev tooling. The best systems are built where others can learn from them.
+
+<br/>
+
+<a id="analytics"></a>
+<img src="assets/divider.svg" width="100%"/>
+
+<br/>
+
+### Analytics
 
 <div align="center">
-
-<!--
-  Pin repos here using the GitHub Pin Card generator:
-  https://github-readme-stats.vercel.app/api/pin/?username=zeenat&repo=REPO_NAME&theme=chartreuse-dark&bg_color=0A0E17&title_color=00F0FF&text_color=E6F1FF&border_color=8B5CF6
-  Duplicate the block below once per project once repo names are finalized.
--->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeenat&repo=velora&theme=chartreuse-dark&bg_color=0A0E17&title_color=00F0FF&text_color=E6F1FF&border_color=8B5CF6&border_radius=12" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeenat&repo=zeno-humanoid-robot&theme=chartreuse-dark&bg_color=0A0E17&title_color=00F0FF&text_color=E6F1FF&border_color=8B5CF6&border_radius=12" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeenat&repo=ai-smart-traffic-management&theme=chartreuse-dark&bg_color=0A0E17&title_color=00F0FF&text_color=E6F1FF&border_color=8B5CF6&border_radius=12" width="48%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=zeenat&show_icons=true&theme=dark&bg_color=00000000&title_color=00F0FF&icon_color=8B5CF6&text_color=E6F1FF&border_color=1c2434&hide_border=false&border_radius=14" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeenat&theme=react-dark&bg_color=00000000&color=00F0FF&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="48%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
+<br/>
 
-<!-- ============ LEARNING_TIMELINE ============ -->
+<a id="roadmap"></a>
+<img src="assets/divider.svg" width="100%"/>
 
-## <img src="https://img.shields.io/badge/-08-0A0E17?style=flat-square&labelColor=EC4899" height="22"/> `LEARNING_TIMELINE`
+<br/>
+
+### Learning Roadmap
 
 ```
-[BCA] ─── Foundations: Programming, DSA, Systems
-  │
-  ├── Python & AI/ML Fundamentals
-  │
-  ├── Computer Vision & OpenCV
-  │
-  ├── Embedded Systems — Raspberry Pi + Arduino
-  │
-  ├── Full Stack Development
-  │
-  └── Robotics Integration — Zeno Humanoid Robot ──▶ [ NOW ]
+Foundations        Programming · DSA · Systems
+     │
+AI / ML Core        Python · Vision · Deep Learning
+     │
+Embedded Systems     Raspberry Pi · Arduino
+     │
+Full Stack           Next.js · FastAPI · Node
+     │
+Robotics             Zeno — sensor fusion, autonomous navigation   ◀ now
+     │
+Founding             AI products that solve real problems           ↦ next
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
+<br/>
 
-<!-- ============ CURRENT_OBJECTIVES ============ -->
+### Current Objectives
 
-## <img src="https://img.shields.io/badge/-09-0A0E17?style=flat-square&labelColor=00F0FF" height="22"/> `CURRENT_OBJECTIVES`
+- Ship Velora's recommendation engine — v1
+- Get Zeno navigating autonomously with fused sensor input
+- Deploy the Smart Traffic system on a live simulation
+- Contribute to three open-source AI / robotics repositories
 
-- `[ ]` Ship Velora's AI recommendation engine v1
-- `[ ]` Get Zeno walking autonomously with sensor-fused navigation
-- `[ ]` Deploy the Smart Traffic system on a live simulation
-- `[ ]` Contribute to 3 open-source AI/robotics repositories
-- `[ ]` Publish a computer vision research write-up
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
+<a id="contact"></a>
+<img src="assets/divider.svg" width="100%"/>
 
-<!-- ============ SYSTEM_LOGS (Achievements) ============ -->
-
-## <img src="https://img.shields.io/badge/-10-0A0E17?style=flat-square&labelColor=8B5CF6" height="22"/> `SYSTEM_LOGS`
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zeenat&theme=algolia&no-frame=true&no-bg=true&column=4&title=Stars,Commits,PullRequest,Repositories" width="90%"/>
+### Contact
+
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) &nbsp;·&nbsp; [X](https://x.com/YOUR-HANDLE) &nbsp;·&nbsp; [Email](mailto:YOUR-EMAIL@gmail.com) &nbsp;·&nbsp; [Portfolio](https://your-portfolio-link.com)
+
+*Replace the placeholders above with real links before publishing.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E17&height=2&width=100%" width="100%"/>
+<br/>
 
-<!-- ============ TRANSMISSION_CHANNELS (Contact) ============ -->
-
-## <img src="https://img.shields.io/badge/-11-0A0E17?style=flat-square&labelColor=00F0FF" height="22"/> `TRANSMISSION_CHANNELS`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E17?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/YOUR-HANDLE)
-[![Twitter/X](https://img.shields.io/badge/X-0A0E17?style=for-the-badge&logo=x&logoColor=00F0FF)](https://x.com/YOUR-HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-0A0E17?style=for-the-badge&logo=instagram&logoColor=EC4899)](https://instagram.com/YOUR-HANDLE)
-[![Gmail](https://img.shields.io/badge/Email-0A0E17?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E17?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://your-portfolio-link.com)
-
-*Replace `YOUR-HANDLE` / `YOUR-EMAIL` above with real links before publishing.*
-
-</div>
-
-<!-- ============ FOOTER / IMAGE 4 SLOT ============ -->
-<!--
-  Replace this with your generated Pixel-Art AI City footer (Image 4 prompt).
-  Recommended path once generated: assets/footer-city.png
-  <img src="assets/footer-city.png" width="100%" />
--->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:2563EB,100:0A0E17&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-<sub>Compiled by Zeenat · Mumbai · Building the future, one system at a time.</sub>
-
-</div>
+<img src="assets/footer.svg" width="100%"/>
